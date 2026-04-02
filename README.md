@@ -34,7 +34,6 @@ The project focuses on practical implementation of **embedded systems and human-
 
 ## 💻 Software & Tools
 - Embedded C
-- STM32CubeMX
 - STM32 HAL Drivers
 - STM32CubeIDE
 
